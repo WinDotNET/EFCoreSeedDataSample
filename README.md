@@ -1,3 +1,3 @@
 # EFCoreSeedDataSample
 
-本示例展示EF Core 2.1中的创建测试数据(Seed Data)功能。
+本示例展示在 EF Core 2.1 中的添加测试数据的功能。
